@@ -1,0 +1,5 @@
+Boiler Room,5
+Crafts Room,4
+Pantry,6
+Fish Tank,4
+Bulletin Board,3
